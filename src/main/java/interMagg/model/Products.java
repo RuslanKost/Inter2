@@ -6,7 +6,7 @@ import javax.persistence.*;
 @Entity
 @Table(name = "PRODUCTS")
 public class Products {
-
+//орлорлорлорл
 
     @Id
 
